@@ -1,0 +1,9 @@
+# Local-only run output; keep manifests/logs but not game data
+artifacts/**/*.fos
+artifacts/**/*.esm
+artifacts/**/*.ba2
+staging/
+extracted/
+temp/
+output/
+docs/ENVIRONMENT.probe.json.local
